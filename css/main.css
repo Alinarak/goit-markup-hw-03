@@ -74,6 +74,7 @@
 }
 .team {
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 .team-title {
   font-style: normal;
@@ -90,11 +91,8 @@
   list-style: none;
   display: flex;
   justify-content: space-between;
-  padding-bottom: 94px;
 }
-.team-item:not(:last-child) {
-  margin-right: 30px;
-}
+
 .team-img {
   display: block;
 }
